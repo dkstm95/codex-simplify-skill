@@ -20,6 +20,7 @@ Place `SKILL.md` in your Codex skills directory, for example:
 
 ```text
 ~/.codex/skills/simplify/SKILL.md
+```
 
 Or keep it inside a repository-specific skills folder if your Codex setup loads project-local skills.
 
